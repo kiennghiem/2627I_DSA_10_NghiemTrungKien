@@ -12,7 +12,7 @@ If stack2 is empty, dequeue and peek will move all elements from stack1 to stack
 of stack2 will be worked on.
 */
 
-public class QueueUsingTwoStacks<T> {
+public class QueueUsingTwoStacks {
 
     public static void main(String[] args) throws IOException {
 
