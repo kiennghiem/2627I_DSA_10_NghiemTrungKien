@@ -1,4 +1,4 @@
-package edu.princeton.cs.algs4.week4;
+package edu.princeton.cs.algs4.week3;
 
 import java.io.*;
 import java.util.*;
