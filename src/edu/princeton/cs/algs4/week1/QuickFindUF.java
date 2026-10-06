@@ -10,7 +10,9 @@
  *
  ******************************************************************************/
 
-package edu.princeton.cs.algs4;
+package edu.princeton.cs.algs4.week1;
+
+import edu.princeton.cs.algs4.*;
 
 /**
  *  The {@code QuickFindUF} class represents a <em>union–find data type</em>
